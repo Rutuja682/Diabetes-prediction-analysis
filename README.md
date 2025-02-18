@@ -34,6 +34,5 @@ This repository contains a comprehensive analysis and model development pipeline
 - **Flask API:** A lightweight API is created in `app.py` to serve real-time predictions.
 - **Usage:** The API accepts JSON input and returns the predicted class.
 
-## Repository Structure
 
 
