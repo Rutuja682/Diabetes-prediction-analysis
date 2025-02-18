@@ -9,8 +9,8 @@ This repository contains a comprehensive analysis and model development pipeline
 ## Dataset Overview
 - **Total Samples:** 520 patients
 - **Features:** 17 columns
-  - **Numerical:** Age (range: 16–90 years; mean ~48, std ~12, IQR = 18)
-  - **Categorical:** Gender, Polyuria, Polydipsia, sudden weight loss, weakness, Polyphagia, Genital thrush, visual blurring, Itching, Irritability, delayed healing, partial paresis, muscle stiffness, Alopecia, Obesity
+- **Numerical:** Age (range: 16–90 years; mean ~48, std ~12, IQR = 18)
+- **Categorical:** Gender, Polyuria, Polydipsia, sudden weight loss, weakness, Polyphagia, Genital thrush, visual blurring, Itching, Irritability, delayed healing, partial paresis, muscle stiffness, Alopecia, Obesity
 - **Target Variable:** `class` (diabetes diagnosis)
 
 ## Key Analyses Performed
